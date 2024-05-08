@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnaStroh
 - I am a PhD student at the Atlantic Technological University, Ireland. With my PhD project, I aim to improve the accuracy and precision
   of fisheries-independent survey-derived abundance indices using spatiotemporal modelling.
-- 🌱 I learn and apply various (spatiotemporal) modelling tools, advanced data manipulation, and spatial operations. I always strive towards more efficient and universally reproducable coding.
+- 🌱 I learn and apply various (spatiotemporal) modelling tools, data manipulation, and geospatial operations. I always strive towards more efficient and universally reproducable coding.
 - 🐟 I am fascinated by fisheries science, and my main research interests include quantitative fisheries management, population dynamics, and fisheries ecology. 
 
 <!---
